@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(https://img.olx.com.br/images/79/795281745316467.jpg);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
